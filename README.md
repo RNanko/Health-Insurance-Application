@@ -18,9 +18,10 @@
 Our goal is to develop a **machine learning model** that can accurately predict **health insurance charges** based on personal and medical attributes.
 
 ### **Key Steps:**
-✔ Train multiple ML models and select the best one.  
+✔ Explore Health Insurance dataset, get the key insight.
+✔ Train multiple ML models to predict health insurance chareges and select the best one. 
+✔ Build application.
 ✔ Deploy the model in a **Tkinter-based GUI application** using `ttkbootstrap`.  
-✔ Optimize the model using **Stacking Regressor** for better predictions.  
 ✔ Handle **input validation** for user-friendly interaction.  
 
 ---
@@ -86,7 +87,7 @@ Using feature importance analysis, we identified the **most influential variable
 
 ## **Application (Tkinter + ttkbootstrap)**
 We developed a **Tkinter-based GUI** using `ttkbootstrap`, which allows users to:
-✔ Input personal & medical details.  
+✔ Input personal details.  
 ✔ Validate inputs in real-time (e.g., incorrect age format alerts).  
 ✔ Get instant insurance charge predictions.  
 
