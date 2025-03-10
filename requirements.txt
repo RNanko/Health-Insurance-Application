@@ -1,0 +1,8 @@
+ttkbootstrap
+pandas
+joblib
+tkinter
+numpy
+matplotlib
+seaborn
+scikit-learn
